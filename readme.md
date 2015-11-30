@@ -1,16 +1,16 @@
-# Alcatraz Child #
-**Contributors:** carrieforde, braad, jgonzo127  
+# Alcatraz Braad #
+**Contributors:** braad  
 **Requires at least:** 4.0  
 **Tested up to:** 4.4  
 **Stable tag:** 1.0  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 
-A demo child theme for Alcatraz.
+An awesome child theme for Alcatraz.
 
 ## Description ##
 
-This theme is a demo child theme for Alcatraz, a developer-friendly parent theme with just the right amount of features.
+This is Braad's personal child theme for Alcatraz. This is mostly for experiments and not recommended for use on an actual website.
 
 ## Installation ##
 
